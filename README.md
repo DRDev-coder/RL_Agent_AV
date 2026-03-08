@@ -1,6 +1,6 @@
 # SafeLane: Adaptive Safety-Driven RL Agent for Lane Changing
 
-**Authors**: Jeevan M, M. Sridevi, Darshan R  
+**Authors**: Darshan R, Jeevan M, M. Sridevi 
 **Paper**: *Adaptive Safety-Driven Deep Q-Network for Autonomous Lane Changing in Highway Environments*  
 **Simulation Framework**: `highway-env` | **Model**: Deep Q-Network (DQN) with Adaptive Rewards
 
@@ -171,3 +171,4 @@ If you use this project in your research, please cite:
 
 **Email**: jeevan231227@gmail.com  
 **GitHub**: [@jeevanm27](https://github.com/jeevanm27)
+
