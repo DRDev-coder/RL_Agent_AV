@@ -157,9 +157,9 @@ The `models/` directory contains all necessary files to resume training:
 If you use this project in your research, please cite:
 
 ```bibtex
-@article{jeevan2025safelane,
+@article{darshan2025safelane,
   title={Adaptive Safety-Driven Deep Q-Network for Autonomous Lane Changing in Highway Environments},
-  author={Jeevan M and M. Sridevi and Darshan R},
+  author={Darshan R, Jeevan M and M. Sridevi},
   journal={Under Review},
   year={2025}
 }
@@ -170,6 +170,7 @@ If you use this project in your research, please cite:
 ## Contact
 
 **Email**: darshan5154896@gmail.com, jeevan231227@gmail.com
+
 
 
 
